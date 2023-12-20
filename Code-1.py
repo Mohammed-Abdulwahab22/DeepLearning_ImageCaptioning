@@ -5,8 +5,8 @@ import numpy as np
 from tqdm import tqdm
 import tensorflow as tf
 
-BASE_DIR = r"D:\DataScience\A-MyModels\Image-Captioning-Fashion\Flickr-8k-dataset"
-WORKING_DIR = r"D:\DataScience\A-MyModels\Image-Captioning-Fashion"
+BASE_DIR = "Your base directory where you put the dataset"
+WORKING_DIR = "your working dir that you want to save file like .pkl in"
 
 
 model = tf.keras.applications.vgg16.VGG16()
