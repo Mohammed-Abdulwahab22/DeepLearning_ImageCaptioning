@@ -11,4 +11,4 @@ This repository contains an image captioning model that generates descriptive ca
 - **Pre-trained Model:** You can use the pre-trained model out of the box, or train your own on a custom dataset.
 
 
- `[https://youtu.be/fUSTbGrL1tc?feature=shared]`
+ `https://youtu.be/fUSTbGrL1tc?feature=shared`
